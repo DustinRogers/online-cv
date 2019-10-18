@@ -10,8 +10,8 @@ sidebar:
     # Sidebar links
     email: rogers.dustin@gmail.com
     phone: 864-266-2603
-    website: https://dustinrogers.github.io/ #do not add http://
-    linkedin: https://www.linkedin.com/in/rogersdustin/
+    website: dustinrogers.github.io/ #do not add http://
+    linkedin: www.linkedin.com/in/rogersdustin/
     
     interests:
       - item: Traveling
@@ -36,8 +36,9 @@ education:
     - degree: MS in Economics
       university: Darla Moore School of Business - University of South Carolina 
       time: 2010 - 2012
-      Thesis: |
-         “The Effect of Agglomeration on the Likelihood and Frequency of Patenting in US Counties”: 
+      summary: |
+         Thesis : “The Effect of Agglomeration on the Likelihood 
+         and Frequency of Patenting in US Counties”: 
         
 
     - degree: BSc in Applied Mathematics
