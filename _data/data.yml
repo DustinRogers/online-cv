@@ -36,7 +36,8 @@ education:
     - degree: MS in Economics
       university: Darla Moore School of Business - University of South Carolina 
       time: 2010 - 2012
-      Thesis: “The Effect of Agglomeration on the Likelihood and Frequency of Patenting in US Counties”: |
+      Thesis: |
+         “The Effect of Agglomeration on the Likelihood and Frequency of Patenting in US Counties”: 
         
 
     - degree: BSc in Applied Mathematics
