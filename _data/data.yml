@@ -28,10 +28,11 @@ career-profile:
     summary: |
       I am currently traveling across the US with my 
       girlfriend and our pup in our 2005 Sprinter van. 
-      As of October 2019, we are based in Portland,
-      Oregon where I am working remotely as a Data 
+      As of November 2019, we are back in South Carolina
+      where I am working remotely as a Data 
       Science Consultant and enjoying the fall weather 
-      and hoppy beers. 
+      and hoppy beers. We will be heading back to Portland
+      to start 2020!
 
 education:
     - degree: MS in Economics
@@ -42,7 +43,7 @@ education:
          and Frequency of Patenting in US Counties”: 
         
 
-    - degree: BSc in Applied Mathematics
+    - degree: BS in Economics & Global Supply Chain Mgmt
       university: Darla Moore School of Business - University of South Carolina 
       time: 2002 - 2006
 
@@ -51,8 +52,8 @@ experiences:
       time: June 2018 - Present
       company: Datalore, Remote
       details: |                 
-        Work with companies to evaluate their problems, implement 
-        statistical based solutions, and validate results.
+        - Work with companies to evaluate their issues, implement statistical based solutions, 
+        and validate results.
         
         - Created a predictive model to forecast sales for a national wholesale 
         plant distributor. Leveraged Boruta and Recursive Feature Elimination 
@@ -60,7 +61,8 @@ experiences:
         to both a Lasso and  Random Forest model do predict sales. 
         - Presented a statistical method for choosing sample size 
         within an A/B test called Power Analysis. 
-        AFLAC  
+        - Presented a statistical method for choosing test and control 
+        groups to a company who were conducting an experiment.   
  
     - role: US FP&A Consultant
       time: June 2017 - May 2019
@@ -145,16 +147,16 @@ skills:
         level: 98%
 
       - name: SQL
-        level: 98%
+        level: 90%
 
       - name: Excel
         level: 98%
 
       - name: Python
-        level: 90%
+        level: 75%
 
       - name: Qlikview
-        level: 85%
+        level: 75%
 
       - name: Tableau
         level: 60%
