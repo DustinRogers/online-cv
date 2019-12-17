@@ -47,9 +47,10 @@ education:
       university: Darla Moore School of Business - University of South Carolina 
       time: 2002 - 2006
 
-certification:
-    - Passed CFA Level 1 Exam – Dec `17
-    - Google Analytics Individual Qualification – Dec `19
+    - certification:
+      details: |
+         Passed CFA Level 1 Exam – Dec `17
+         Google Analytics Individual Qualification – Dec `19
 
 experiences:
     - role: Data Science Consultant
