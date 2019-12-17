@@ -28,10 +28,10 @@ career-profile:
     summary: |
       I am currently traveling across the US with my 
       girlfriend and our pup in our 2005 Sprinter van. 
-      As of November 2019, we are back in South Carolina
+      As of December 2019, we are back in South Carolina
       where I am working remotely as a Data 
-      Science Consultant and enjoying the fall weather 
-      and hoppy beers. We will be heading back to Portland
+      Science Consultant and enjoying the fall weather.
+      We will be heading back to Portland
       to start 2020!
 
 education:
@@ -46,6 +46,10 @@ education:
     - degree: BS in Economics & Global Supply Chain Mgmt
       university: Darla Moore School of Business - University of South Carolina 
       time: 2002 - 2006
+
+certification:
+    - Passed CFA Level 1 Exam – Dec `17
+    - Google Analytics Individual Qualification – Dec `19
 
 experiences:
     - role: Data Science Consultant
@@ -160,5 +164,7 @@ skills:
 
       - name: Tableau
         level: 60%
+        
+        
 
 
