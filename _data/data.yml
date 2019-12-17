@@ -12,15 +12,12 @@ sidebar:
     phone: 864-266-2603
     website: dustinrogers.github.io/ #do not add http://
     linkedin: rogersdustin
-    
-    interests:
-      - item: Traveling
+  
+    certifications:
+      - item: Passed CFA Level 1 Exam – Dec `17
         link:
 
-      - item: Coffee
-        link:
-
-      - item: Reading
+      - item: Google Analytics Individual Qualification – Dec `19
         link:
 
 career-profile:
