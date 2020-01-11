@@ -46,18 +46,12 @@ experiences:
       time: June 2018 - Present
       company: Datalore, Remote
       details: |                 
-        - Work with companies to evaluate their issues, implement statistical based solutions, 
-        and validate results.
-        
-        - Created a predictive model to forecast sales for a national wholesale 
-        plant distributor. Leveraged Boruta and Recursive Feature Elimination 
-        analysis to determine the most important data features and applied the results
-        to both a Lasso and  Random Forest model do predict sales. 
-        - Presented a statistical method for choosing sample size 
-        within an A/B test called Power Analysis. 
-        - Presented a statistical method for choosing test and control 
-        groups to a company who were conducting an experiment.   
- 
+        - Consult with companies to understand their issues, provide insights 
+        and analysis, and implement statistical based solutions.
+        - Automated the gathering, cleansing, and feature engineering stages of model development.
+        - Developed and implemented new forecasting methodologies to increase accuracy and interpretability.
+        - Designed strategies for testing A/B experiments. 
+           
     - role: US FP&A Consultant
       time: June 2017 - May 2019
       company: Aflac US, Columbia, SC
