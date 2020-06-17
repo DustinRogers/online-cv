@@ -145,23 +145,25 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: R
-        level: 98%
+      - name: Tableau
+        level: 95%
+        
+      - name: Python
+        level: 95%
 
-      - name: SQL
+      - name: SQL/Snowflake/Athena
         level: 90%
 
       - name: Excel
         level: 98%
 
-      - name: Python
+      - name: R
         level: 75%
 
       - name: Qlikview
         level: 75%
 
-      - name: Tableau
-        level: 60%
+      
         
         
 
