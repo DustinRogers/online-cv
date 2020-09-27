@@ -47,21 +47,21 @@ experiences:
       time: February 2020 – Present
       company: Nike - Beaverton, OR
       details: |                 
-        - Partner with global retail operations directors and the data engineering team to create datasets, 
-        dashboards, and predictive models that guide insights and support senior leaderships’ decision-making process.
-        - Post Covid-19 Recovery - Created a predictive model using China’s post Covid-19 transaction, traffic, and 
-        inventory volumes to forecast sanitary supplies and labor hours for retail stores in North America, EMEA, and APLA.
-        - House of Sustainability Project – Created a dataset to analyze global retail stores’ energy consumption and emissions. 
-        Gained insight into geographic trends and local consumption drivers. Subsequently created a dashboard that allows territory GM’s to identify high consumption stores for targeted energy reduction efforts.
-        - Provide ongoing support to an Operational Excellence team by analyzing monthly survey responses from store leaders to 
-        guide process improvements within the retail store environment.
+        - Lead Nike’s Global Retail Operations Insights team by developing automated tools and dashboards that guide insights
+        and support the decision-making process across all levels of the organization.
+        - Develop sustainable solutions with current new gen data technologies to automate the ETL process and ensure BI 
+        reporting is consistent and up to date. Master new technologies rapidly to support varied initiatives.
+        - Partner with product teams to develop Tableau dashboard solutions that measure and monitor their ability to 
+        deliver on management’s expectations.
+        - Collaborate with the Global Operations managers to explore datasets, formulate hypotheses, and provide 
+        statistically grounded recommendations to ensure store processes and tools meet business objectives.
+
 
     - role: Data Science Consultant
       time: June 2018 - February 2020
       company: Datalore - Remote
       details: |                 
-        - Consult with companies to understand their issues, provide insights 
-        and analysis, and implement statistical based solutions.
+        - Consult with companies to understand their issues, provide insights and analysis, and implement statistical based solutions.
         - Automated the gathering, cleansing, and feature engineering stages of model development.
         - Developed and implemented new forecasting methodologies to increase accuracy and interpretability.
         - Designed strategies for testing A/B experiments. 
