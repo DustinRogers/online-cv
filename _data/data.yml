@@ -4,7 +4,7 @@ sidebar:
 
     # Profile information
     name: Dustin Rogers
-    tagline: Insights and Analytics Manager
+    tagline: Senior Analytics Engineer
     avatar: Online Resume.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -17,44 +17,58 @@ sidebar:
       - item: Passed CFA Level 1 Exam Dec `17
         link:
 
-      - item: Google Analytics Individual Qualification Dec `19
+      - item: AWS Certified Cloud Practitioner
         link:
 
 career-profile:
-    title: Insights and Analytics Manager
+    title: Senior Analytics Engineer
     summary: |
-      After traveling all over the country with my girlfriend and our pup in our Sprinter van in 2019, we have
-      settled down in Portland, OR where I am working at Nike as an Insights and Analytics Senior Analyst. Over the past 8 years, I 
-      have consistently demonstrated the ability to deliver valuable insights via data analytics and advanced 
-      data-driven methods. I have been relied on as a key advisor in providing deep customer insights, driving sales
-      and demand growth; and gains in customer loyalty.  
+      After traveling all over the country with my wife and our pup in our Sprinter van in 2019, we have settled in Portland, OR 
+      where I work as a Senior Analytics Engineer. Over the past 15 years, I have consistently demonstrated the ability to deliver valuable 
+      insights via data analytics and advanced data-driven methods. I have been relied on as a key advisor in providing deep customer insights, 
+      driving sales and demand growth; and gains in customer loyalty.  
 
 education:
-    - degree: MS in Economics
+    - degree: Masters in Economics
       university: Darla Moore School of Business - University of South Carolina 
       time: 2010 - 2012
       details: |
-         Thesis : “The Effect of Agglomeration on the Likelihood 
-         and Frequency of Patenting in US Counties”: 
+         Thesis : “The Effect of Agglomeration on the Likelihood and Frequency of Patenting in US Counties”: 
         
 
-    - degree: BS in Economics & Global Supply Chain Mgmt
+    - degree: Bachelor of Science in Economics & Global Supply Chain Mgmt
       university: Darla Moore School of Business - University of South Carolina 
       time: 2002 - 2006
 
 experiences:
+
     - role: Insights and Analytics Manager - Global Retail Operations
       time: February 2020 – Present
       company: Nike - Beaverton, OR
       details: |                 
-        - Lead Nike’s Global Retail Operations Insights team by developing automated tools and dashboards that guide insights
-        and support the decision-making process across all levels of the organization.
-        - Develop sustainable solutions with current new gen data technologies to automate the ETL process and ensure BI 
-        reporting is consistent and up to date. Master new technologies rapidly to support varied initiatives.
-        - Partner with product teams to develop Tableau dashboard solutions that measure and monitor their ability to 
-        deliver on management’s expectations.
-        - Collaborate with the Global Operations managers to explore datasets, formulate hypotheses, and provide 
-        statistically grounded recommendations to ensure store processes and tools meet business objectives.
+       - Lead Nike’s Materials Operation Excellence (MOX) Analytics teams by developing the automation pipelines, tools, and frameworks that 
+       provide clean and consistent data to all levels of the Materials organization.
+       - Design, build, and govern MOX’s analytical models, mixing internal, external, 
+       and enterprise datasets. Layer in analytics like optimization, forecasting, and reporting to derive insights.
+       - Design, deploy, monitor, and troubleshoot data pipelines leveraging Airflow, Spark, Python, and AWS Lambda. 
+       - Design and build reusable frameworks and Python libraries to support scalable ETL products.
+       - Develop scalable CI/CD pipelines leveraging GitHub, Jenkins, Artifactory, Docker, and Airflow.
+
+
+
+    - role: Insights and Analytics Manager - Global Retail Operations
+      time: February 2020 – Present
+      company: Nike - Beaverton, OR
+      details: |                 
+        - Led Nike’s Global Retail Operations Analytics and Insights team by developing automation tools and dashboards that guide
+        insights and support the decision-making process across all levels of the organization.
+        - Collaborated with operations managers and product teams to formulate hypotheses, explore datasets, and provide statistically 
+        grounded recommendations to ensure store processes and tools meet business objectives.
+        - Developed sustainable solutions to automate the ETL process and ensure BI reporting was consistent and up to date.
+        Mastered new technologies rapidly to support varied initiatives.
+        - Built and deployed quantitative research/forecasts, and report business key performance indicators to understand and 
+        optimize drivers of growth and performance.
+
 
 
     - role: Data Science Consultant
@@ -66,72 +80,51 @@ experiences:
         - Developed and implemented new forecasting methodologies to increase accuracy and interpretability.
         - Designed strategies for testing A/B experiments. 
            
-    - role: US FP&A Consultant
+    - role: FP&A Manager - Executive Analytics
       time: June 2017 - May 2019
       company: Aflac US - Columbia, SC
       details: |   
-      
-        - Led monthly business performance metrics process reporting to President of US 
-        Operations which included collaborating with division leaders to synthesize 
+        - Led monthly business performance metrics process reporting to President of US Operations which included collaborating with division leaders to synthesize 
         results and provided guidance to support executive decisions.
-        - Created and presented a quarterly Financial Competitive Intelligence report which 
-        analyzed short and long term financial trends and growth strategies across eight 
+        - Created and presented a quarterly Financial Competitive Intelligence report which analyzed short and long term financial trends and growth strategies across eight 
         of Aflac's closest competitors.
-        - Interpreted financial results for internal strategic initiatives, managed variance
-        analysis against targets, realigned expectations, and coordinated development of corrective 
+        - Interpreted financial results for internal strategic initiatives, managed variance analysis against targets, realigned expectations, and coordinated development of corrective 
         action plans to close gaps.
-        - Designed and maintained scorecards and P&L statements for strategic initiatives to evaluate 
-        the profitability of individual projects compared to plan/forecast.
-        - Developed a predictive model using machine learning that leverages 
-        up-to-date CRM data to provide an accurate sales pipeline to sales leadership.
+        - Designed and maintained scorecards and P&L statements for strategic initiatives to evaluate the profitability of individual projects compared to plan/forecast.
+        - Developed a predictive model using machine learning that leverages up-to-date CRM data to provide an accurate sales pipeline to sales leadership.
  
     - role: Senior Financial Analyst
       time: July 2016 - June 2017
       company: Staples, Columbia, SC
       details: |
-       
-          - Supported the Staples Shared Services Financial Planning and Analysis (FP&A)
-          activities including financial planning and forecasting, business analysis, 
+          - Supported the Staples Shared Services Financial Planning and Analysis (FP&A) activities including financial planning and forecasting, business analysis, 
           management reporting, and decision support.
-          - Supported full P&L responsibility by providing financial consulting, 
-          strategic support, and analysis of initiatives and special projects to 
+          - Supported full P&L responsibility by providing financial consulting, strategic support, and analysis of initiatives and special projects to 
           facilitate realization of financial objectives.
-          - Coolaborated and gained consensus among division leaders to prepare 
-          executive reporting decks for management meetings.
-          - Performed SQL queries and R models for various ad hoc analyses, 
-          predictive models, and reports as needed.
-          - Assisted Shared Services teams with planning process improvement projects 
-          and productivity initiatives to deliver key improvements.
-          - Utilized knowledge of key business cycle trends to support the preparation
-          of the annual budget for Financial Shared Services.
+          - Coolaborated and gained consensus among division leaders to prepare executive reporting decks for management meetings.
+          - Performed SQL queries and R models for various ad hoc analyses, predictive models, and reports as needed.
+          - Assisted Shared Services teams with planning process improvement projects and productivity initiatives to deliver key improvements.
+          - Utilized knowledge of key business cycle trends to support the preparation of the annual budget for Financial Shared Services.
       
    
     - role: Senior Actuarial Analyst
       time: July 2013 - June 2016
       company: Colonial Life Insurance, Columbia, SC
       details: |
-  
-          - Designed and developed cross-enterprise business intelligence applications 
-          that automated month-end reporting and provided greater insight into emerging
+            - Designed and developed cross-enterprise business intelligence applications that automated month-end reporting and provided greater insight into emerging
           drivers and trends. 
-          - Built business intelligence applications for the Sales Compensation, 
-          Underwriting and Product Development departments.
-          - Used multiple machine learning techniques to create predictive models
-          which led to increased customer retention and profitability.  
-          - Led the 5-year GAAP and Statutory forecasting and strategic planning process 
-          for Colonial Life (approx. $1.4B in annual revenue).
-          - Prepared monthly/quarterly reporting and variance analysis packages for 
-          Colonial Life financial leadership.
-          - Financial liaison to the Project Management Office (PMO) in support of the Strategic 
-          Initiative business planning process. Consulted with project business owners to provide 
-          accurate and timely delivery of Cost Benefit Analyses.
+          - Built business intelligence applications for the Sales Compensation, Underwriting and Product Development departments.
+          - Used multiple machine learning techniques to create predictive models which led to increased customer retention and profitability.  
+          - Led the 5-year GAAP and Statutory forecasting and strategic planning process for Colonial Life (approx. $1.4B in annual revenue).
+          - Prepared monthly/quarterly reporting and variance analysis packages for Colonial Life financial leadership.
+          - Financial liaison to the Project Management Office (PMO) in support of the Strategic Initiative business planning process. 
+          Consulted with project business owners to provide accurate and timely delivery of Cost Benefit Analyses.
 
     - role: Research Analyst
       time: January 2012 – June 2013
       company: Darla Moore School of Business - Economic Research , Columbia, SC
       details: |      
- 
-          - Assisted Director of Research on economic impact analyses and research projects 
+           - Assisted Director of Research on economic impact analyses and research projects 
           by creating and organizing datasets, performing analysis, and providing written and 
           verbal presentations.
           - Constructed project proposals, performed subsequent economic impact analysis, 
@@ -145,23 +138,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Tableau
-        level: 95%
-        
       - name: Python
         level: 95%
+        
+      - name: SQL
+        level: 95%
 
-      - name: SQL/Snowflake/Athena
+      - name: AWS
         level: 90%
 
-      - name: Excel
-        level: 98%
+      - name: Airflow
+        level: 90%
 
-      - name: R
-        level: 75%
+      - name: DBT
+        level: 90%
 
-      - name: Qlikview
-        level: 75%
+      - name: Tableau
+        level: 90%
 
       
         
