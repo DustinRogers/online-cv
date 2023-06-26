@@ -14,7 +14,7 @@ sidebar:
     linkedin: rogersdustin
   
     certifications:
-      - item: Passed CFA Level 1 Exam Dec `17
+      - item: CFA Level 1 Exam Dec `17
         link:
 
       - item: AWS Certified Cloud Practitioner
@@ -27,17 +27,39 @@ career-profile:
       where I work as a Senior Analytics Engineer. Over the past 15 years, I have consistently demonstrated the ability to deliver valuable 
       insights via data analytics and advanced data-driven methods. I have been relied on as a key advisor in providing deep customer insights, 
       driving sales and demand growth; and gains in customer loyalty.  
+      
+skills:
+    title: Skills &amp; Proficiency
 
+    toolset:
+      - name: Python
+        level: 95%
+        
+      - name: SQL
+        level: 95%
+
+      - name: AWS
+        level: 90%
+
+      - name: Airflow
+        level: 90%
+
+      - name: DBT
+        level: 90%
+
+      - name: Tableau
+        level: 90%     
+        
 education:
-    - degree: Masters in Economics
-      university: Darla Moore School of Business - University of South Carolina 
+    - degree: Master of Arts - Economics
+      university: University of South Carolina 
       time: 2010 - 2012
       details: |
          Thesis : “The Effect of Agglomeration on the Likelihood and Frequency of Patenting in US Counties”: 
         
 
-    - degree: Bachelor of Science in Economics & Global Supply Chain Mgmt
-      university: Darla Moore School of Business - University of South Carolina 
+    - degree: Bachelor of Science - Economics, Global Supply Chain Mgmt
+      university: University of South Carolina 
       time: 2002 - 2006
 
 experiences:
@@ -130,27 +152,7 @@ experiences:
           - Utilized Stata and R to analyze survey and cross-sectional research data and estimate models using different econometric techniques (KNN, Linear & Logistic Regression).
           - Created a novel database of US utility patents to study knowledge diffusion  within a mix of industrial sectors. 
  
-skills:
-    title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python
-        level: 95%
-        
-      - name: SQL
-        level: 95%
-
-      - name: AWS
-        level: 90%
-
-      - name: Airflow
-        level: 90%
-
-      - name: DBT
-        level: 90%
-
-      - name: Tableau
-        level: 90%
 
       
         
